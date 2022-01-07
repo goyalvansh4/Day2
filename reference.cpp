@@ -9,7 +9,7 @@ int main(){
   int i=10;
   int *p =&i;
   
-  increment(p);
+  increment(i);
   
   cout<<i<<endl;
   
