@@ -6,7 +6,7 @@ int i=65;
 int *p =&i;
 char *cp = (char*)p;
 
-cout<< *P <<endl;
+cout<< *p <<endl;
 cout<< *cp <<endl;
 
 return 0;
